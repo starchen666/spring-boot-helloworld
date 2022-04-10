@@ -1,4 +1,4 @@
-FROM maven:3-jdk-8-onbuild-alpine-n
+FROM maven:3-jdk-8-onbuild-alpine
 
 RUN mkdir -p /usr/src/app
 
